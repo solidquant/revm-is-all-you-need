@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+rand = "0.8.5"
 bytes = "1.2.1"
 dotenv = "0.15.0"
 futures = "0.3.5"

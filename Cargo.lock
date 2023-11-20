@@ -3893,6 +3893,7 @@ dependencies = [
  "foundry-evm",
  "futures",
  "log",
+ "rand 0.8.5",
  "revm",
  "tokio",
  "tokio-stream",
