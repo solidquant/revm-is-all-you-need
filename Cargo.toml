@@ -18,7 +18,6 @@ ethers-contract = "2.0"
 ethers = { version = "2.0", features = ["abigen", "ws"]}
 
 foundry-evm = { git = "https://github.com/solidquant/foundry.git", branch = "version-fix" }
-anvil = { git = "https://github.com/solidquant/foundry.git", branch = "version-fix" }
 
 revm = { version = "3.3.0", features = ["ethersdb"] }
 
